@@ -1,0 +1,15 @@
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/bin/Debug/net6.0/noteApp
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/bin/Debug/net6.0/noteApp.deps.json
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/bin/Debug/net6.0/noteApp.runtimeconfig.json
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/bin/Debug/net6.0/noteApp.dll
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/bin/Debug/net6.0/noteApp.pdb
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/obj/Debug/net6.0/noteApp.csproj.AssemblyReference.cache
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/obj/Debug/net6.0/noteApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/obj/Debug/net6.0/noteApp.AssemblyInfoInputs.cache
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/obj/Debug/net6.0/noteApp.AssemblyInfo.cs
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/obj/Debug/net6.0/noteApp.csproj.CoreCompileInputs.cache
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/obj/Debug/net6.0/noteApp.dll
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/obj/Debug/net6.0/refint/noteApp.dll
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/obj/Debug/net6.0/noteApp.pdb
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/obj/Debug/net6.0/noteApp.genruntimeconfig.cache
+/home/ibrahim/dev/dotNetProjects/gabBootCamp/training/noteApp/obj/Debug/net6.0/ref/noteApp.dll

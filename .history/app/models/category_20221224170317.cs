@@ -1,0 +1,20 @@
+
+namespace Models
+{
+    class Category{
+        String id{
+            get; 
+            set;
+        }
+        String name{
+            get{
+                return name;
+            } 
+            set{
+
+                return ;
+            }
+        }
+        bool isFavorite = false;
+    }
+}
